@@ -38,7 +38,7 @@ To streamline collaboration and governance, this repo includes GitHub Issue Temp
 These templates live in `.github/ISSUE_TEMPLATE/` and are automatically available when creating a new issue.
 
 ## How to Request a New Prompt
-1. Open an issue and Title it: [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
+1. Open an issue and title it: [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
 2. Include:
    - Prompt title and use case
    - Sample input and desired output format
@@ -47,7 +47,7 @@ These templates live in `.github/ISSUE_TEMPLATE/` and are automatically availabl
 3. Alternatively, copy the - [New Prompt Request Template](https://github.com/alex1969/ai-prompt-governance/blob/main/.github/ISSUE_TEMPLATE/new-prompt-request.md) then open [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md) paste in the copied template, and fill in details as needed.
 
 ## How to Submit Prompt Feedback
-1. Open an issue and Title it: [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md)
+1. Open an issue and title it: [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md)
 2. Include:
    - Prompt ID
    - One-sentence feedback summary
