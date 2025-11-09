@@ -42,14 +42,17 @@ These templates live in `.github/ISSUE_TEMPLATE/` and are automatically availabl
 
 To propose a new prompt for inclusion:
 
-1. Use the [New Prompt Request Form](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
+1. Open an issue and Title it: [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
 2. Include:
    - Prompt title and use case
    - Sample input and desired output format
    - Tags and domain (e.g., Legal, AML, Policy)
    - Any constraints or formatting needs
+3. Alternatively, copy the - [New Prompt Request Template](https://github.com/alex1969/ai-prompt-governance/blob/main/.github/ISSUE_TEMPLATE/new-prompt-request.md) then open [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md) past in thempate and fill in details as needed. 
 
 Your request will be reviewed by the Prompt Engineer and Governance Lead.
+- [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
+- [Governance Exception Request](https://github.com/alex1969/ai-prompt-governance/blob/main/governance/review-workflow.md)
 
 ## Governance
 
