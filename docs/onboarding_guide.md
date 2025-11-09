@@ -1,6 +1,6 @@
-# 🧭 Stakeholder Onboarding Guide: LRMC Prompt Library
+# Stakeholder Onboarding Guide: LRMC Prompt Library
 
-Welcome! This guide helps Legal, Regulatory, and Compliance professionals understand how to use and contribute to the Prompt Engineering Library.
+Welcome! This guide helps Legal, Regulatory, and Compliance (LRMC) professionals understand how to use and contribute to the Prompt Engineering Library.
 
 ## Purpose
 
