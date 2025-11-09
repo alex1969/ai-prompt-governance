@@ -57,6 +57,6 @@ For onboarding help, training, or prompt walkthroughs, contact:
 Use these GitHub-native forms to contribute:
 
 - [New Prompt Request Form](https://github.com/alex1969/ai-prompt-governance/blob/main/.github/ISSUE_TEMPLATE/new-prompt-request.md)
-- [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md)
+- [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
 - [Governance Exception Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=governance-exception.md)
 
