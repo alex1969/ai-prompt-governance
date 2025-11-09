@@ -27,7 +27,7 @@ PEP Status: No
 1. Assess risk based on jurisdiction, volume, and affiliations.
 2. Classify as High, Medium, or Low risk.
 3. Justify your classification in 1–2 sentences.
-```
+
 ## Output Format
 ```json
 {
@@ -45,4 +45,5 @@ Output:
   "justification": "High transaction volume and PEP status in a high-risk jurisdiction.",
   "confidence_score": "0.88"
 }
+```
 ```
