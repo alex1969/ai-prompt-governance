@@ -45,7 +45,7 @@ Respond using the following structure:
   "justification": "[Concise explanation]",
   "confidence_score": "[0.0–1.0]"
 }
-
+```
 [CONSTRAINTS]
 Use plain language suitable for non-technical stakeholders.
 Limit justification to 2 sentences.
