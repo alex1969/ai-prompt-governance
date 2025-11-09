@@ -19,8 +19,8 @@ Welcome to the governance-aware prompt library for Legal, Regulatory, and Compli
 1. Browse the `prompts/` folder for approved prompts
 2. Use the `prompt-data-dictionary.csv` to filter by domain, use case, or tags
 3. Submit feedback or request new prompts using GitHub Issues:
-   - [Prompt Feedback](../../issues/new?template=prompt-feedback.md)
-   - [New Prompt Request](../../issues/new?template=new-prompt-request.md)
+   - [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
+   - [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
 
 ## Contributing
 We welcome contributions from prompt engineers, domain SMEs, and governance leads. To Contribute:
@@ -48,15 +48,14 @@ To propose a new prompt for inclusion:
    - Sample input and desired output format
    - Tags and domain (e.g., Legal, AML, Policy)
    - Any constraints or formatting needs
-3. Alternatively, copy the - [New Prompt Request Template](https://github.com/alex1969/ai-prompt-governance/blob/main/.github/ISSUE_TEMPLATE/new-prompt-request.md) then open [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md) past in thempate and fill in details as needed. 
+3. Alternatively, copy the - [New Prompt Request Template](https://github.com/alex1969/ai-prompt-governance/blob/main/.github/ISSUE_TEMPLATE/new-prompt-request.md) then open [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md) past in copied template, and fill in details as needed. 
 
 Your request will be reviewed by the Prompt Engineer and Governance Lead.
-- [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
-- [Governance Exception Request](https://github.com/alex1969/ai-prompt-governance/blob/main/governance/review-workflow.md)
 
 ## Governance
 
 All prompts follow a versioning and review workflow documented in `governance/`. Changes must be reviewed by domain SMEs and governance leads before approval.
+- [Governance Exception Request](https://github.com/alex1969/ai-prompt-governance/blob/main/governance/review-workflow.md)
 
 ## Contact
 
