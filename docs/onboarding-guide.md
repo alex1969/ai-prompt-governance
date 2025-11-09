@@ -51,3 +51,12 @@ All prompts are reviewed for:
 For onboarding help, training, or prompt walkthroughs, contact:
 - Alexander Stevens, Prompt Library Owner
 - [alexstevens1969@gmail.com]
+
+## Issue Templates
+
+Use these GitHub-native forms to contribute:
+
+- [New Prompt Request Form](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
+- [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md)
+- [Governance Exception Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=governance-exception.md)
+
