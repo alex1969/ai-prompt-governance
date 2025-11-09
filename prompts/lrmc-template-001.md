@@ -44,7 +44,7 @@ Respond using the following structure:
   "justification": "[Concise explanation]",
   "confidence_score": "[0.0–1.0]"
 }
-
+```
 [CONSTRAINTS]
 Use plain language suitable for non-technical stakeholders.
 Limit justification to 2 sentences.
@@ -52,12 +52,12 @@ Do not include disclaimers or assumptions unless explicitly asked.
 
 [EXAMPLES] (Optional for few-shot prompting) 
 Example 1: Input: "The vendor may transfer data outside the EU without prior notice." 
-Output:
+Output:```json
 {
   "risk_level": "High",
   "justification": "Unrestricted data transfer violates GDPR Article 44.",
   "confidence_score": "0.92"
 }
-
+```
 [REVIEW INSTRUCTION] (Optional for self-refinement) 
 After completing your response, review it for clarity, completeness, and alignment with the instructions.
