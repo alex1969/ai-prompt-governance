@@ -1,5 +1,5 @@
 # Prompt ID: LRMC-TEMPLATE-001
-## Title: Classify Clause Risk Level
+## Title: <example: Classify Clause Risk Level>
 **Domain**: Legal  
 **Use Case**: modular and auditable template  
 **Version**: v1.0  
