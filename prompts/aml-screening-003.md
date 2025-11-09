@@ -9,13 +9,13 @@
 **Tags**: AML, entity screening, risk classification
 
 ---
-
+```markdown
 ## Prompt
 
 You are a compliance analyst screening entities for AML risk. Review the entity profile and classify its risk level.
 
 ## Input
-"""markdown
+"""
 Entity: XYZ Holdings  
 Jurisdiction: Cayman Islands  
 Transaction Volume: $12M/month  
@@ -27,7 +27,7 @@ PEP Status: No
 1. Assess risk based on jurisdiction, volume, and affiliations.
 2. Classify as High, Medium, or Low risk.
 3. Justify your classification in 1–2 sentences.
-
+```
 ## Output Format
 ```json
 {
