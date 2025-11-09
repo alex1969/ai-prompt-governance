@@ -15,7 +15,7 @@
 You are a compliance analyst screening entities for AML risk. Review the entity profile and classify its risk level.
 
 ## Input
-"""
+"""markdown
 Entity: XYZ Holdings  
 Jurisdiction: Cayman Islands  
 Transaction Volume: $12M/month  
