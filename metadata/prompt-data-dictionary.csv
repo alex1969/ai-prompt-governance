@@ -1,0 +1,8 @@
+﻿prompt_id,title,domain,use_case,version,owner,status,tags
+LRMC-TEMPLATE-001,General template,"Legal, Risk, Compliance",Modular and auditable template,v1.0,A. Stevens,Approved,"triage,privacy,classification"
+LRMC-TRIAGE-001,Clause Risk Classification for GDPR Compliance,"Legal, Risk, Compliance",Triage contract clauses for privacy risk,v1.0,Alexander Stevens,Approved,"triage, privacy, classification, GDPR"
+CONTRACT-REVIEW-002,Contract Clause Summarization for Legal Review,Legal,Summarize clauses for redlining and review,v1.0,Alexander Stevens,Approved,"summarization, contract, redlining, legal"
+AML-SCREENING-003,Entity Risk Classification for AML Screening,Compliance,Classify entities based on anti-money laundering risk indicators,v1.0,Alexander Stevens,Approved,"AML, entity screening, risk classification"
+POLICY-SUMMARY-004,Summarize Internal Policy for Stakeholder Briefing,Regulatory,Convert policy text into stakeholder-friendly summaries,v1.0,Alexander Stevens,Approved,"policy, summarization, stakeholder, briefing"
+TEMPLATE-UNIVERSAL-000,Universal Prompt Template,"Legal, Risk, Compliance",Reusable scaffold for structured prompt design,v1.0,Alexander Stevens,Approved,"template, reusable, governance, structure"
+EXPERIMENTAL-REVIEW-005,Experimental Prompt for Review Workflow Testing,"Legal, Risk, Compliance",Test prompt for review and feedback loop simulation,v0.1,Alexander Stevens,Draft,"testing, review, feedback, governance"

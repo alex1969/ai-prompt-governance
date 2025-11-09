@@ -1,0 +1,47 @@
+# Prompt ID: LRMC-TRIAGE-001
+## Title: Clause Risk Classification for GDPR Compliance
+
+**Domain**: Legal 
+**Use Case**: Triage contract clauses for privacy risk  
+**Version**: v1.0  
+**Owner**: Alexander Stevens  
+**Status**: Approved  
+**Tags**: triage, privacy, classification, GDPR
+
+---
+
+## Prompt
+
+You are a compliance analyst specializing in GDPR. Your task is to review the following contract clause and classify its risk level.
+
+## Input
+"""
+The vendor may transfer personal data to third countries without notifying the data subject.
+"""
+
+## Instructions
+1. Identify any GDPR-relevant risks.
+2. Classify the clause as High, Medium, or Low risk.
+3. Justify your classification in 1–2 sentences.
+
+## Output Format
+```json
+{
+  "risk_level": "High | Medium | Low",
+  "justification": "[Concise explanation]",
+  "confidence_score": "[0.0–1.0]"
+}
+```
+
+## Example
+Input: "The vendor may transfer personal data outside the EU without safeguards." 
+Output:
+{
+  "risk_level": "High",
+  "justification": "Unrestricted data transfer violates GDPR Article 44.",
+  "confidence_score": "0.92"
+}
+
+## Notes
+Known failure mode: vague clauses with no jurisdictional reference.
+Feedback loop: under review by privacy SME team.
