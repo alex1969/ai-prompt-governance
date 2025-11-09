@@ -1,2 +1,9 @@
 blank_issues_enabled: false
-contact_links: []
+
+contact_links:
+  - name: Email the Maintainer
+    url: mailto:alexstevens1969@gmail.com
+    about: Use this if you have questions or need help outside of GitHub templates.
+  - name: Stakeholder Onboarding Guide
+    url: https://github.com/alex1969/ai-prompt-governance/blob/main/docs/onboarding-guide.md
+    about: Read this first if you're new to the prompt library or governance process.
