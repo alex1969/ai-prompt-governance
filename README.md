@@ -18,7 +18,7 @@ Welcome to the governance-aware prompt library for Legal, Regulatory, and Compli
 
 1. Browse the `prompts/` folder for approved prompts
 2. Use the `prompt-data-dictionary.csv` to filter by domain, use case, or tags
-3. Submit feedback or request new prompts using GitHub Issues:
+3. Submit feedback or request new prompts using these templates:
    - [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
    - [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
 
@@ -33,8 +33,8 @@ We welcome contributions from prompt engineers, domain SMEs, and governance lead
 
 To streamline collaboration and governance, this repo includes GitHub Issue Templates:
 
-- **Prompt Feedback** – Report issues, suggest improvements, or flag hallucination risks
-- **New Prompt Request** – Propose new prompts with sample inputs, outputs, and use cases
+- **[Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)** – Report issues, suggest improvements, or flag hallucination risks
+- **[New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)** – Propose new prompts with sample inputs, outputs, and use cases
 
 These templates live in `.github/ISSUE_TEMPLATE/` and are automatically available when creating a new issue.
 
