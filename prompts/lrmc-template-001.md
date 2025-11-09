@@ -52,7 +52,8 @@ Do not include disclaimers or assumptions unless explicitly asked.
 
 [EXAMPLES] (Optional for few-shot prompting) 
 Example 1: Input: "The vendor may transfer data outside the EU without prior notice." 
-Output:```json
+Output:
+```json
 {
   "risk_level": "High",
   "justification": "Unrestricted data transfer violates GDPR Article 44.",
