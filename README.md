@@ -42,7 +42,7 @@ These templates live in `.github/ISSUE_TEMPLATE/` and are automatically availabl
 
 To propose a new prompt for inclusion:
 
-1. Use the [New Prompt Request Form](../../issues/new?template=new-prompt-request.md)
+1. Use the [New Prompt Request Form](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
 2. Include:
    - Prompt title and use case
    - Sample input and desired output format
