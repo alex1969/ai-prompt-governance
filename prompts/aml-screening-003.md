@@ -7,7 +7,6 @@
 **Owner**: Alexander Stevens  
 **Status**: Approved  
 **Tags**: AML, entity screening, risk classification
-
 ---
 
 ## Prompt
@@ -38,11 +37,11 @@ PEP Status: No
 ```
 ## Example
 Input: Entity in Panama with $20M/month and PEP status 
-Output:```json
+Output:
+```json
 {
   "risk_level": "High",
   "justification": "High transaction volume and PEP status in a high-risk jurisdiction.",
   "confidence_score": "0.88"
 }
-
 ```
