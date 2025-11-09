@@ -30,3 +30,14 @@ What should the model return?
   "risk_reason": "Unusual offshore transfer with vague purpose",
   "confidence_score": "0.87"
 }
+```
+## Examples (Optional)
+Include a few input/output pairs if available.
+
+## Tags
+Relevant keywords: AML, red flag, screening, risk
+
+## Notes
+Any constraints, formatting needs, or model preferences?
+
+Should work with GPT-4 and Copilot. Output must be JSON.

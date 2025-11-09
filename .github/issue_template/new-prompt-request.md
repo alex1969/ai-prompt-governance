@@ -1,5 +1,5 @@
 name: New Prompt Request
-description: Propose a new prompt for the library
+about: Propose a new prompt for the library
 title: "[Request] AML Red Flag Detection Prompt"
 labels: new-prompt, triage
 assignees: alexanderstevens
