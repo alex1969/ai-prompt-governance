@@ -34,7 +34,8 @@ Employees must report any conflict of interest involving vendors, clients, or pe
 
 ## Example
 Input: "Report conflicts of interest within 10 days." 
-Output:```json
+Output:
+```json
 {
   "summary": "Tell us about any personal or business conflicts within 10 days of noticing them.",
   "policy_type": "Disclosure"
