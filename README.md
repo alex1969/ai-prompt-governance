@@ -53,7 +53,7 @@ These templates live in `.github/ISSUE_TEMPLATE/` and are automatically availabl
    - One-sentence feedback summary
    - Input, output, and suggested fix
    - Any additional notes. 
-3. Alternatively, copy the - [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md) then open [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md) past in the copied template, and fill in details as needed. 
+3. Alternatively, copy the - [Prompt Feedback Template](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md) then open [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/issues/new?template=prompt-feedback.md) past in the copied template, and fill in details as needed. 
 
 Your requests will be reviewed by the Prompt Engineer and Governance Lead.
 
