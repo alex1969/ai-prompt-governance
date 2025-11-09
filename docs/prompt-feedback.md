@@ -3,7 +3,6 @@ about: Submit feedback on an existing prompt
 title: "[Feedback] LRMC-TRIAGE-001 – Suggested revision"
 labels: feedback, prompt-review
 assignees: alexanderstevens
-
 ---
 
 ## Prompt ID
