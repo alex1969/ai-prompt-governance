@@ -1,9 +1,11 @@
 # Prompt ID: LRMC-TEMPLATE-001
 ## Title: General Template
+
 **Domain**: <Legal, Risk, Compliance>  
 **Use Case**: modular and auditable template  
 **Version**: v1.0  
 **Owner**: Alexander Stevens
+
 ---
 
 This template is modular and auditable — ideal for maintaining a **versioned prompt library**. You can adapt it for:
