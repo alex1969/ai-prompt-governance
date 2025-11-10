@@ -18,9 +18,9 @@ Welcome to the governance-aware prompt library for Legal, Regulatory, and Compli
 
 1. Browse the `prompts/` folder for approved prompts
 2. Use the `prompt-data-dictionary.csv` in `metadata/` to filter by domain, use case, or tags
-3. Submit feedback or request new prompts using these templates:
+3. Submit feedback or request new prompts using:
    - [New Prompt Request](https://github.com/alex1969/ai-prompt-governance/issues/new?template=new-prompt-request.md)
-   - [Prompt Feedback Form](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
+   - [Prompt Feedback](https://github.com/alex1969/ai-prompt-governance/blob/main/docs/prompt-feedback.md)
    
 ## Contributing
 We welcome contributions from prompt engineers, domain SMEs, and governance leads. To Contribute:
