@@ -9,7 +9,7 @@
 **Tags**: AML, entity screening, risk classification
 
 ---
-```markdown
+
 ## Prompt
 
 You are a compliance analyst screening entities for AML risk. Review the entity profile and classify its risk level.
@@ -45,5 +45,4 @@ Output:
   "justification": "High transaction volume and PEP status in a high-risk jurisdiction.",
   "confidence_score": "0.88"
 }
-```
 ```
