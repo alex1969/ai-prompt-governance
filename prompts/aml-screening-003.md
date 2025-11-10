@@ -36,6 +36,7 @@ PEP Status: No
   "confidence_score": "[0.0–1.0]"
 }
 ```
+```
 ## Example
 Input: Entity in Panama with $20M/month and PEP status 
 Output:
@@ -45,5 +46,4 @@ Output:
   "justification": "High transaction volume and PEP status in a high-risk jurisdiction.",
   "confidence_score": "0.88"
 }
-```
 ```
