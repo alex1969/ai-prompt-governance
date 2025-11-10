@@ -36,12 +36,13 @@ The vendor may transfer personal data to third countries without notifying the d
 ## Example
 Input: "The vendor may transfer personal data outside the EU without safeguards." 
 Output:
+```json
 {
   "risk_level": "High",
   "justification": "Unrestricted data transfer violates GDPR Article 44.",
   "confidence_score": "0.92"
 }
-
+```
 ## Notes
 Known failure mode: vague clauses with no jurisdictional reference.
 Feedback loop: under review by privacy SME team.
