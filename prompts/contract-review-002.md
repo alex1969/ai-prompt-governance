@@ -25,7 +25,7 @@ The licensee shall not sublicense, assign, or otherwise transfer the rights gran
 3. Limit summary to 30 words.
 
 ## Output Format
-json```
+```json
 {
   "summary": "[Plain language summary]",
   "clause_type": "Restriction | Obligation | Permission"
@@ -33,7 +33,8 @@ json```
 ```
 ## Example
 Input: "The licensee shall not sublicense without consent." 
-Output:```json
+Output:
+```json
 {
   "summary": "You can’t transfer rights unless the licensor agrees in writing.",
   "clause_type": "Restriction"
